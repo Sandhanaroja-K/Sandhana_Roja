@@ -25,8 +25,7 @@ Hello! I'm **Sandhana Roja K**, currently pursuing a **Data Science course** wit
 
 ## Contact
 - **Email**: sandhanarojak@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: (https://www.linkedin.com/in/sandhana-roja-k-95a7a7279/)
 
-Feel free to reach out to me for any collaboration or opportunities. Let's connect and grow together in the field of Data Science!
 # Sandhana_Roja
 Personal Repository for showcasing my projects and skills in data science. Includes various projects demonstrating my proficiency in SQL, Python, Machine Learning, Deep Learning, and Power BI. Ideal for potential employers and collaborators to review my work and capabilities. 
